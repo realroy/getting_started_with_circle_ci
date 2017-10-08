@@ -1,1 +1,2 @@
 # Getting started with CircleCL
+[![CircleCI](https://circleci.com/gh/realroy/getting_started_with_circle_ci/tree/master.svg?style=svg)](https://circleci.com/gh/realroy/getting_started_with_circle_ci/tree/master)
